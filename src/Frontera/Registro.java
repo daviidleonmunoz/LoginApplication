@@ -7,7 +7,7 @@ package Frontera;
 
 /**
  *
- * @author Hamed
+ * @author David
  */
 public class Registro extends javax.swing.JPanel {
 
